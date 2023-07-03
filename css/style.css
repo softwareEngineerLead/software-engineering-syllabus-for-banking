@@ -1,0 +1,26 @@
+* {
+    background-color: lightgreen;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    margin: 100px;
+    padding: 50px;
+}
+
+header h1 {
+    background-color: yellow;
+    height: 70px;
+    color: crimson;
+    font-size: 250%;
+    font-weight: 700;
+    padding: 10px;
+    padding-top: 15px;
+    border-radius: 10px;
+}
+
+#front-end {
+    background-color: rgb(75, 102, 210);
+
+}
